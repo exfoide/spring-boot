@@ -54,7 +54,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>spring-boot-multi-com.jasper.datasource-jdbctemplate</finalName>
+        <finalName>spring-boot-multi-datasource-jdbctemplate</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
