@@ -1,0 +1,8 @@
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\Application.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\datasource\DataSourceConfig.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\datasource\PrimaryConfig.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\domain\user\UserRepository.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\datasource\SecondaryConfig.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\domain\message\MessageRepository.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\domain\user\User.java
+D:\Web\spring-boot\spring-boot-multi-datasource-jpa\src\main\java\com\jasper\domain\message\Message.java

@@ -1,0 +1,8 @@
+com\jasper\domain\user\User.class
+com\jasper\Application.class
+com\jasper\domain\message\MessageRepository.class
+com\jasper\domain\message\Message.class
+com\jasper\datasource\DataSourceConfig.class
+com\jasper\datasource\SecondaryConfig.class
+com\jasper\datasource\PrimaryConfig.class
+com\jasper\domain\user\UserRepository.class
